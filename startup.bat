@@ -1,0 +1,2 @@
+cd C:\Pal_Server\steamapps\common\PalServer
+start PalServer.exe -publiclobby EpicApp=PalServer -ServerName="YOURSERVERNAMEHERE" -port=8211 -AdminPassword="YOURPASSOWRDHERE" -players=32 -log "C:\Pals_Server\steamapps\common\PalServer\Pal\Saved\Logs" -nosteam
