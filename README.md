@@ -8,16 +8,13 @@ Restart server msg 1 min.bat
 
 Sends a broadcast message that the server will restart in 1 minute.
 
-
 Restart server msg 5 min.bat
 
 Sends a broadcast message that the server will restart in 5 minutes.
 
-
 Restart server msg 10 min.bat
 
 Sends a broadcast message that the server will restart in 10 minutes.
-
 
 Restart server.bat
 
