@@ -22,6 +22,10 @@ Stops the running server by force-killing the process:
 
 taskkill /im "PalServer-Win64-Test-Cmd.exe" /f
 
+Startup.bat
+
+Starts the PalWorld Server
+
 You can extend this file to restart the server after killing the task, or chain it with the message scripts.
 
 🛠 Usage
@@ -37,6 +41,8 @@ Example sequence:
 3. Run Restart server msg 1 min.bat
 
 4. Run Restart server.bat to stop the server
+
+5. Run startup.bat
 
 📌 Notes
 
